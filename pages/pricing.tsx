@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { MainLayout } from '@/components/layouts/MainLayout';
 
-export default function HomePage() {
+export default function PricingPage() {
   return (
     <MainLayout title="Pagina de Inicio">
       <h1>Pagina de Inicio</h1>
